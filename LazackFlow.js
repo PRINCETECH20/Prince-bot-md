@@ -351,7 +351,7 @@ async function connectionUpdate(update) {
   }
   if (connection === 'open') {
             let notificationText = ` CONNECTED:*Succesfully to connected in prince md bot dababase* .`
-              await conn.sendMessage(+255654003502 + "@s.whatsapp.net", { text: notificationText })
+              await conn.sendMessage(+255623672733 + "@s.whatsapp.net", { text: notificationText })
   }
 
   if (connection === 'open') {
